@@ -1,7 +1,7 @@
 {
   "LuaSnip": { "branch": "master", "commit": "659c4479529a05cc9b05ef762639a09d366cc690" },
   "NvChad": { "branch": "v2.5", "commit": "bbc3d43db088c141b142a40cd5f717635833a54e" },
-  "base46": { "branch": "v2.5", "commit": "16ee0e93dfc52e35ee7c9cf45e5ebf116958edb7" },
+  "base46": { "branch": "v2.5", "commit": "8971be55aeb6d5fe086169c0ee9ce647a3871570" },
   "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "39e2eda76828d88b773cc27a3f61d2ad782c922d" },
   "cmp-nvim-lua": { "branch": "main", "commit": "f12408bdb54c39c23e67cab726264c10db33ada8" },
@@ -22,14 +22,14 @@
   "nvim-dap-ui": { "branch": "master", "commit": "ffa89839f97bad360e78428d5c740fdad9a0ff02" },
   "nvim-lspconfig": { "branch": "master", "commit": "87c7c83ce62971e0bdb29bb32b8ad2b19c8f95d0" },
   "nvim-nio": { "branch": "master", "commit": "a428f309119086dc78dd4b19306d2d67be884eee" },
-  "nvim-tree.lua": { "branch": "master", "commit": "28eac2801b201f301449e976d7a9e8cfde053ba3" },
+  "nvim-tree.lua": { "branch": "master", "commit": "f7c65e11d695a084ca10b93df659bb7e68b71f9f" },
   "nvim-treesitter": { "branch": "master", "commit": "1c0cbdef44a2cc35c6436e0866a2a5282b339ffd" },
-  "nvim-web-devicons": { "branch": "master", "commit": "19d257cf889f79f4022163c3fbb5e08639077bd8" },
+  "nvim-web-devicons": { "branch": "master", "commit": "e87554285f581047b1bf236794b0eb812b444b87" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "rust.vim": { "branch": "master", "commit": "889b9a7515db477f4cb6808bef1769e53493c578" },
   "rustaceanvim": { "branch": "master", "commit": "8ece53be36515cb9e76f3d03511643636469502d" },
   "telescope.nvim": { "branch": "master", "commit": "85922dde3767e01d42a08e750a773effbffaea3e" },
-  "ui": { "branch": "v3.0", "commit": "9b54aa578de937c42974cc2c7f89a8b026e0c297" },
-  "volt": { "branch": "main", "commit": "39d34ce6e77483e68cd931a7d83175df531cce50" },
+  "ui": { "branch": "v3.0", "commit": "9b31c25fc497d1ef726de15ae297769dbf90c1a5" },
+  "volt": { "branch": "main", "commit": "41c03a5d6a0a8a997e774a3482d82e5ef820c6ba" },
   "which-key.nvim": { "branch": "main", "commit": "68e37e12913a66b60073906f5d3f14dee0de19f2" }
 }
